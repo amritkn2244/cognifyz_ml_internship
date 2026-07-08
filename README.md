@@ -1,4 +1,4 @@
-# Cognifyz ML Internship — Amrit Kumar Nayak
+# Cognifyz ML Internship - Amrit Kumar Nayak
 
 Machine Learning Internship tasks completed at **Cognifyz Technologies Pvt. Ltd.** Tasks 1, 3, and 4 were selected.
 Ref: CTI/A1/C367837
